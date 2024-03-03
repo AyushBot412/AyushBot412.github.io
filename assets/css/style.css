@@ -187,6 +187,12 @@ img {
   transform: scale(1.1);
 }
 
+
+
+.test-column {
+  width: 100%;
+}
+
 /* CONTACT */
 
 #contact .form-control {
